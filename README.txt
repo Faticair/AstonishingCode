@@ -1,5 +1,5 @@
 This is my first github repositiry.
-Mainly save LeedCode files.
+Record the Linux shell learning process.
 Hope it work well.
 
 Steps to update repositiry:
