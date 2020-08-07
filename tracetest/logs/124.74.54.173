@@ -1,0 +1,70 @@
+inetnum:        124.74.0.0 - 124.75.255.255
+netname:        CHINANET-SH
+descr:          CHINANET Shanghai province network
+descr:          China Telecom
+descr:          No.31,jingrong street
+descr:          Beijing 100032
+country:        CN
+admin-c:        CH93-AP
+tech-c:         XI5-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET-SH
+mnt-routes:     MAINT-CHINANET-SH
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+last-modified:  2016-05-04T00:03:22Z
+source:         APNIC
+mnt-irt:        IRT-CHINANET-CN
+
+irt:            IRT-CHINANET-CN
+address:        No.31 ,jingrong street,beijing
+address:        100032
+e-mail:         anti-spam@ns.chinanet.cn.net
+abuse-mailbox:  anti-spam@ns.chinanet.cn.net
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+auth:           # Filtered
+mnt-by:         MAINT-CHINANET
+last-modified:  2010-11-15T00:31:55Z
+source:         APNIC
+
+person:         Chinanet Hostmaster
+nic-hdl:        CH93-AP
+e-mail:         anti-spam@ns.chinanet.cn.net
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +86-10-58501724
+fax-no:         +86-10-58501724
+country:        CN
+mnt-by:         MAINT-CHINANET
+last-modified:  2014-02-27T03:37:38Z
+source:         APNIC
+
+person:         Wu Xiao Li
+address:        Room 805,61 North Si Chuan Road,Shanghai,200085,PRC
+country:        CN
+phone:          +86-21-63630562
+fax-no:         +86-21-63630566
+e-mail:         ipms@shtel.com.cn
+nic-hdl:        XI5-AP
+mnt-by:         MAINT-CHINANET-SH
+abuse-mailbox:  ip-admin@mail.online.sh.cn
+last-modified:  2014-02-27T08:51:31Z
+source:         APNIC
+
+% Information related to '124.74.0.0/16AS4812'
+
+route:          124.74.0.0/16
+origin:         AS4812
+descr:          China Telecom
+                Data Network Management Division
+                Network Operation & Maintenance Department
+                No 19 Chaoyangmen North Street
+                Dongcheng District
+mnt-by:         MAINT-CHINANET
+last-modified:  2018-12-21T03:39:04Z
+source:         APNIC

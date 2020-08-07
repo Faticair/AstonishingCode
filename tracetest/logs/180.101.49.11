@@ -1,0 +1,65 @@
+inetnum:        180.96.0.0 - 180.127.255.255
+netname:        CHINANET-JS
+descr:          Chinanet Jiangsu Province Network
+descr:          China Telecom
+descr:          No.31,jingrong street
+descr:          Beijing 100032
+country:        CN
+admin-c:        CH93-AP
+tech-c:         CJ186-AP
+remarks:        service provider
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET-JS
+last-modified:  2016-05-04T00:18:52Z
+source:         APNIC
+mnt-irt:        IRT-CHINANET-CN
+
+irt:            IRT-CHINANET-CN
+address:        No.31 ,jingrong street,beijing
+address:        100032
+e-mail:         anti-spam@ns.chinanet.cn.net
+abuse-mailbox:  anti-spam@ns.chinanet.cn.net
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+auth:           # Filtered
+mnt-by:         MAINT-CHINANET
+last-modified:  2010-11-15T00:31:55Z
+source:         APNIC
+
+role:           CHINANET JIANGSU
+address:        260 Zhongyang Road,Nanjing 210037
+country:        CN
+phone:          +86-25-86588231
+phone:          +86-25-86588745
+fax-no:         +86-25-86588104
+e-mail:         jsabuse@189.cn
+remarks:        send anti-spam reports to jsabuse@189.cn
+remarks:        send abuse reports to jsabuse@189.cn
+remarks:        times in GMT+8
+remarks:        www.jsinfo.net
+admin-c:        CH360-AP
+tech-c:         CS306-AP
+tech-c:         CN142-AP
+nic-hdl:        CJ186-AP
+notify:         jsabuse@189.cn
+mnt-by:         MAINT-CHINANET-JS
+last-modified:  2020-04-02T09:18:02Z
+source:         APNIC
+
+person:         Chinanet Hostmaster
+nic-hdl:        CH93-AP
+e-mail:         anti-spam@ns.chinanet.cn.net
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +86-10-58501724
+fax-no:         +86-10-58501724
+country:        CN
+mnt-by:         MAINT-CHINANET
+last-modified:  2014-02-27T03:37:38Z
+source:         APNIC
