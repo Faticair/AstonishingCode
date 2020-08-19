@@ -1,0 +1,68 @@
+inetnum:        103.41.140.0 - 103.41.143.255
+netname:        HEYIXINXI-CN
+descr:          Heyi xinxijishu(BeiJing) Co. Ltd.
+descr:          11th Floor Sinosteel Plaza,8 Haidian DaJie,Haidian District,Beijing
+admin-c:        ML2271-AP
+tech-c:         BW860-AP
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-irt:        IRT-CNNIC-CN
+mnt-routes:     MAINT-CNNIC-AP
+status:         ALLOCATED PORTABLE
+last-modified:  2014-10-31T09:44:02Z
+source:         APNIC
+
+irt:            IRT-CNNIC-CN
+address:        Beijing, China
+e-mail:         ipas@cnnic.cn
+abuse-mailbox:  ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+auth:           # Filtered
+remarks:        Please note that CNNIC is not an ISP and is not
+remarks:        empowered to investigate complaints of network abuse.
+remarks:        Please contact the tech-c or admin-c of the network.
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2017-11-01T08:57:39Z
+source:         APNIC
+
+person:         SU QIANG
+address:        11th Floor Sinosteel Plaza,8 Haidian DaJie,Haidian District,Beijing
+country:        CN
+phone:          +86-1058851881
+e-mail:         ipadmin@youku.com
+nic-hdl:        BW860-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2014-12-23T03:56:01Z
+source:         APNIC
+
+person:         CHI XIANG
+address:        11th Floor Sinosteel Plaza,8 Haidian DaJie,Haidian District,Beijing
+country:        CN
+phone:          +86-1058851881
+e-mail:         chixiang@youku.com
+nic-hdl:        ML2271-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2014-12-23T03:56:02Z
+source:         APNIC
+
+% Information related to '103.41.140.0/22AS37963'
+
+route:          103.41.140.0/22
+descr:          Hangzhou Alibaba Advertising Co.,Ltd.
+country:        CN
+origin:         AS37963
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2019-08-08T23:26:06Z
+source:         APNIC
+
+% Information related to '103.41.140.0/22AS45102'
+
+route:          103.41.140.0/22
+descr:          Alibaba (US) Technology Co., Ltd.
+country:        CN
+origin:         AS45102
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2019-08-08T23:26:06Z
+source:         APNIC

@@ -1,0 +1,88 @@
+inetnum:        116.251.64.0 - 116.251.127.255
+netname:        Taobao
+descr:          Zhejiang Taobao Network Co.,Ltd
+descr:          2nd floor, Westlake International technology Building
+descr:          391Wener Road, Hangzhou, China
+country:        CN
+admin-c:        ZM678-AP
+tech-c:         ZM877-AP
+tech-c:         ZM876-AP
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-CNNIC-CN
+status:         ALLOCATED PORTABLE
+last-modified:  2013-07-09T03:30:02Z
+source:         APNIC
+
+irt:            IRT-CNNIC-CN
+address:        Beijing, China
+e-mail:         ipas@cnnic.cn
+abuse-mailbox:  ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+auth:           # Filtered
+remarks:        Please note that CNNIC is not an ISP and is not
+remarks:        empowered to investigate complaints of network abuse.
+remarks:        Please contact the tech-c or admin-c of the network.
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2017-11-01T08:57:39Z
+source:         APNIC
+
+person:         Shuo Yu
+address:        5F, Builing D, the West Lake International Plaza of S&T
+address:        No.391 Wen'er Road, Hangzhou City
+address:        Zhejiang, China, 310099
+country:        CN
+phone:          +86-0571-85022600
+fax-no:         +86-0571-85022600
+e-mail:         shuo.yus@alibaba-inc.com
+e-mail:         shuo.yus@aliyun-inc.com
+nic-hdl:        ZM678-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2011-11-02T03:36:02Z
+source:         APNIC
+
+person:         security trouble
+e-mail:         cloud-cc-sqcloud@list.alibaba-inc.com
+address:        5th,floor,Building D,the West Lake International Plaza of S&T,391#Wen’er Road
+address:        Hangzhou, Zhejiang, China
+phone:          +86-0571-85022600
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+nic-hdl:        ZM876-AP
+last-modified:  2013-07-08T02:56:02Z
+source:         APNIC
+
+person:         Guowei Pan
+address:        5F, Builing D, the West Lake International Plaza of S&T
+address:        No.391 Wen'er Road, Hangzhou City
+address:        Zhejiang, China, 310099
+country:        CN
+phone:          +86-0571-85022088-30763
+fax-no:         +86-0571-85022600
+e-mail:         guowei.pangw@alibaba-inc.com
+nic-hdl:        ZM877-AP
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2013-07-09T01:34:02Z
+source:         APNIC
+
+% Information related to '116.251.64.0/18AS37963'
+
+route:          116.251.64.0/18
+descr:          Hangzhou Alibaba Advertising Co.,Ltd.
+country:        CN
+origin:         AS37963
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2019-08-08T23:26:05Z
+source:         APNIC
+
+% Information related to '116.251.64.0/18AS45102'
+
+route:          116.251.64.0/18
+descr:          Alibaba (US) Technology Co., Ltd.
+country:        CN
+origin:         AS45102
+mnt-by:         MAINT-CNNIC-AP
+last-modified:  2019-08-08T23:26:05Z
+source:         APNIC

@@ -1,0 +1,41 @@
+inetnum:        101.80.0.0 - 101.95.255.255
+netname:        CHINANET-SH
+descr:          CHINANET SHANGHAI PROVINCE NETWORK
+descr:          China Telecom
+descr:          No.31,jingrong street
+descr:          Beijing 100032
+country:        CN
+admin-c:        WWQ4-AP
+tech-c:         WWQ4-AP
+status:         ALLOCATED PORTABLE
+notify:         ip-admin@mail.online.sh.cn
+remarks:        service provider
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET-SH
+mnt-routes:     MAINT-CHINANET-SH
+mnt-irt:        IRT-CHINANET-CN
+last-modified:  2011-01-03T00:37:59Z
+source:         APNIC
+
+irt:            IRT-CHINANET-CN
+address:        No.31 ,jingrong street,beijing
+address:        100032
+e-mail:         anti-spam@ns.chinanet.cn.net
+abuse-mailbox:  anti-spam@ns.chinanet.cn.net
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+auth:           # Filtered
+mnt-by:         MAINT-CHINANET
+last-modified:  2010-11-15T00:31:55Z
+source:         APNIC
+
+person:         Weng Wen Qian
+address:        Room 2405,357 Songlin Road,Shanghai 200122
+country:        CN
+phone:          +86-21-68405784
+fax-no:         +86-21-50623458
+e-mail:         wengwq@online.sh.cn
+nic-hdl:        WWQ4-AP
+mnt-by:         MAINT-CHINANET-SH
+last-modified:  2008-09-04T07:34:05Z
+source:         APNIC
