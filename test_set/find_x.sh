@@ -3,17 +3,32 @@
 
 # find all executable file in the specific path
 
-path='/home/zahi/Software/'
-IFSOLD=$IFS
-IFS=:
-for dir in $path
-do
-    echo "$dir:"
-    for file in $dir/*
+read -p "Please input the path you want to search:" path
+if [ -d $path ]
+then
+    IFSOLD=$IFS
+    IFS=:
+    for dir in $path
     do
-        if [ -x $file ]
-        then
-            echo "	$file"
-        fi
-    done
-done > xfile
+        echo "The excutable file in your path are:"
+        echo "$dir:"
+        for file in $dir/*
+        do
+            if [ -x $file ]
+            then
+                echo "	$file"
+            fi
+        done
+    done > xfile
+elif [ -f $path ]
+then
+    echo -n "This is a file! "
+    if [ -x $path ]
+    then
+        echo "But it is an excutable file."
+    else
+        echo "And not excutable."
+    fi
+else
+    echo "The PATH you input is invalid."
+fi

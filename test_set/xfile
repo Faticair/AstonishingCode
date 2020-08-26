@@ -1,4 +1,27 @@
-/home/zahi/Software/:
-	/home/zahi/Software//Anaconda3-2020.07-Linux-x86_64.sh
-	/home/zahi/Software//node-v12.18.3-linux-x64
-	/home/zahi/Software//pycharm-community-2020.1.4
+The excutable file in your path are:
+../test_set:
+	../test_set/basic.sh
+	../test_set/csvtosql.sh
+	../test_set/find_x_pro.sh
+	../test_set/find_x.sh
+	../test_set/for.sh
+	../test_set/interact.sh
+	../test_set/option.sh
+	../test_set/structured.sh
+	../test_set/while_until.sh
+The excutable file in your path are:
+/home/zahi/Software:
+	/home/zahi/Software/Anaconda3-2020.07-Linux-x86_64.sh
+	/home/zahi/Software/node-v12.18.3-linux-x64
+	/home/zahi/Software/pycharm-community-2020.1.4
+The excutable file in your path are:
+../test_set:
+	../test_set/basic.sh
+	../test_set/csvtosql.sh
+	../test_set/find_x_pro.sh
+	../test_set/find_x.sh
+	../test_set/for.sh
+	../test_set/interact.sh
+	../test_set/option.sh
+	../test_set/structured.sh
+	../test_set/while_until.sh
