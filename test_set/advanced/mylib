@@ -1,0 +1,24 @@
+function recursion {
+    if [ $1 -eq 1 ]
+    then
+        echo 1
+    else
+        local temp=$[ $1 - 1 ]
+        local result=$( recursion $temp )
+        echo $[ $result * $1 ]
+    fi
+}
+
+function arr_sum {
+    local array=($@)
+    local sum=0
+    for (( i=0 ; i<${#array[*]} ; i++ ))
+    do
+        sum=$[ $sum + ${array[$i]} ]
+    done
+    echo $sum
+}
+
+echo "------------------ You are using 'mylib' ------------------"
+echo "-This lib contains recursion, arr_sum and other functions.-"
+echo "-----------------------------------------------------------"
